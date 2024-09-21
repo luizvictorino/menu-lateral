@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./Preview.PNG" width="700">
+    <img src="./preview.PNG" width="700">
 </p>
 <p align="center">Preview <b>Menu Lateral</b></p>
 
